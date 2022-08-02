@@ -17,6 +17,8 @@
 
 # About
 
+> **This package is no longer maintained**. The repository has been changed to be a read-only archive, you are free to clone or fork the repository anytime.
+
 A simple react based chrome extension to generate a random password designed with Microsoft's [FluentUI](https://github.com/microsoft/fluentui/tree/master/packages/react).
 
 # Getting started
